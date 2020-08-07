@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img alt="Mobile" width="650px" src="https://prnt.sc/tvfv1k" />
-  <img alt="Web" width="650px" src="https://prnt.sc/tvfvew" />
+  <img alt="Mobile" width="325px" src="./.github/mobile.png" />
+  <img alt="Web" width="325px" src="./.github/web.png" />
 <p>
 
 ## :bookmark: Sobre
